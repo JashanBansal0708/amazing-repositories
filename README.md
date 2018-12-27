@@ -34,7 +34,7 @@ It is intended for everyone and anyone- especially for College students.
 
 ## :information_source: &nbsp;Contributing?
 
-This repository doesn't contain **all** the best repositories present on Github. So please consider to contribute by adding more repositories/topics and giving your suggestions. Read this file to see how to contribute: [CONTRIBUTING.md](CONTRIBUTING.md) <br>
+This repository doesn't contain **all** the best repositories present on Github for learning purposes. So please consider to contribute by adding more repositories/topics and giving your suggestions. Read this file to see how to contribute: [CONTRIBUTING.md](CONTRIBUTING.md) <br>
 
 # Table of Contents
   <ul>
@@ -49,11 +49,32 @@ This repository doesn't contain **all** the best repositories present on Github.
   </ul>
   
 <h2 id="javascript">Javascript</h2>
-  <ol>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-  </ol>
+<table>
+    <thead>
+        <th>SR NO.</th>
+        <th>DESCRIPTION</th>
+        <th>REFERENCE</th>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Javascript style guide</td>
+            <td>https://github.com/airbnb/javascript"</td>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>Javascript cheat sheet helps to reduce the amount of code that you wants to spend on your code</td>
+            <td>https://github.com/airbnb/javascript"</td>
+        </tr>
+
+        <tr>
+            <td>1</td>
+            <td>Javascript style guide that helps to increase your skills in coding</td>
+            <td>https://github.com/airbnb/javascript"</td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 id="python">Python</h2>
   <ol>
