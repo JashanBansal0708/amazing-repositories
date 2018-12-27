@@ -1,4 +1,4 @@
-<p align="center"><a href='awesome-repositories.jpg'><img src="awesome-repositories.jpg"></p>
+![Awesome Repositories](awesome-repositories.jpg)
 <h1 align='center'>Awesome Repositories</h1>
 
 <p align='center'>An awesome and curated list of best repositories related to various topics. Leave a star :star: to support this project</p>
