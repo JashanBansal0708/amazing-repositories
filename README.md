@@ -31,13 +31,79 @@ This repository aims to take all the awesome repositories present on github at o
 
 It is intended for everyone and anyone- especially for College students.
 
-## :information_source: &nbsp;Contributing
+## :information_source: &nbsp;Contributing?
 
 If you wants to contribute by adding more repositories/topics, give suggestions read [CONTRIBUTING.md](CONTRIBUTING.md)
 
+# Table of Contents
+  <ol>
+    <li><a href="#javascript">JavaScript</li>
+    <li><a href="#python">Python</li>
+    <li><a href="#java">Java</li>
+    <li><a href="#C/C++">C/C++</li>
+    <li><a href="#algorithms">Algorithms and Data Structures</li>
+    <li><a href="#SQL">SQL</li>
+    <li><a href="#MongoDB">MongoDB</li>
+    <li><a href="#github">Git/Github</li>
+  </ol>
+  
+<h2 id="javascript">Javascript</h2>
+  <ol>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+  </ol>
+
+<h2 id="python">Python</h2>
+  <ol>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+  </ol>
+
+<h2 id="java">Java</h2>
+  <ol>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+  </ol>
 
 
+<h2 id="c/c++">C/C++</h2>
+  <ol>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+  </ol>
 
+
+<h2 id="algorithms">Data Structures and Algorithms</h2>
+  <ol>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+  </ol>
+
+<h2 id="sql">SQL</h2>
+  <ol>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+  </ol>
+
+<h2 id="mongodb">MongoDB</h2>
+  <ol>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+  </ol>
+
+<h2 id="github">Git/Github</h2>
+  <ol>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
+  </ol>
 
 
 
