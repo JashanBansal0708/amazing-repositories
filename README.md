@@ -1,6 +1,7 @@
+![Awesome Repositories](AwesomeRepositories.png)
 <h1 align='center'>Awesome Repositories</h1>
 
-<p align='center'>A collection of awesome repositories related to various topics. Leave a star :star: to support this project</p>
+<p align='center'>An awesome and curated list of best repositories related to various topics. Leave a star :star: to support this project</p>
 
 <p align="center">
   <a href="https://github.com/jashanbansal0708/awesome-repositories/issues">
@@ -33,10 +34,10 @@ It is intended for everyone and anyone- especially for College students.
 
 ## :information_source: &nbsp;Contributing?
 
-If you wants to contribute by adding more repositories/topics, give suggestions read [CONTRIBUTING.md](CONTRIBUTING.md)
+This repository doesn't contain **all** the best repositories present on Github. So please consider to contribute by adding more repositories/topics and giving your suggestions. Read this file to see how to contribute: [CONTRIBUTING.md](CONTRIBUTING.md) <br>
 
 # Table of Contents
-  <ol>
+  <ul>
     <li><a href="#javascript">JavaScript</li>
     <li><a href="#python">Python</li>
     <li><a href="#java">Java</li>
@@ -45,7 +46,7 @@ If you wants to contribute by adding more repositories/topics, give suggestions 
     <li><a href="#SQL">SQL</li>
     <li><a href="#MongoDB">MongoDB</li>
     <li><a href="#github">Git/Github</li>
-  </ol>
+  </ul>
   
 <h2 id="javascript">Javascript</h2>
   <ol>
