@@ -59,19 +59,17 @@ This repository doesn't contain **all** the best repositories present on Github 
         <tr>
             <td>1</td>
             <td>Javascript style guide</td>
-            <td>https://github.com/airbnb/javascript"</td>
+            <td><td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
         </tr>
-
         <tr>
             <td>1</td>
             <td>Javascript cheat sheet helps to reduce the amount of code that you wants to spend on your code</td>
-            <td>https://github.com/airbnb/javascript"</td>
+            <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td>
         </tr>
-
         <tr>
             <td>1</td>
             <td>Javascript style guide that helps to increase your skills in coding</td>
-            <td>https://github.com/airbnb/javascript"</td>
+            <td><td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
         </tr>
     </tbody>
 </table>
