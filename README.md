@@ -50,28 +50,28 @@ This repository doesn't contain **all** the best repositories present on Github 
   
 <h2 id="javascript">Javascript</h2>
 <table>
-    <thead>
-        <th>SR NO.</th>
-        <th>DESCRIPTION</th>
-        <th>REFERENCE</th>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td>Javascript style guide</td>
-            <td><td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Javascript cheat sheet helps to reduce the amount of code that you wants to spend on your code</td>
-            <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>Javascript style guide that helps to increase your skills in coding</td>
-            <td><td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
-        </tr>
-    </tbody>
+  <thead>
+    <th>SR NO.</th>
+    <th>DESCRIPTION</th>
+    <th>REFERENCE</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Javascript style guide</td>
+      <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Javascript cheat sheet helps to reduce the amount of code that you wants to spend on your code</td>
+      <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Javascript style guide that helps to increase your skills in coding</td>
+      <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
+    </tr>
+  </tbody>
 </table>
 
 <h2 id="python">Python</h2>
