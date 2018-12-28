@@ -59,22 +59,22 @@ This repository doesn't contain **all** the best repositories present on Github 
     <tr>
       <td>1.</td>
       <td>JavaScript Style Guide</td>
-      <td><a href="https://github.com/airbnb/javascript"  target="_blank">https://github.com/airbnb/javascript</a></td>
+      <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</a></td>
     </tr>
     <tr>
       <td>2.</td>
       <td>Clean Code concepts adapted for JavaScript</td>
-      <td><a href="https://github.com/ryanmcdermott/clean-code-javascript"  target="_blank">https://github.com/ryanmcdermott/clean-code-javascript</a></td>
+      <td><a href="https://github.com/ryanmcdermott/clean-code-javascript">https://github.com/ryanmcdermott/clean-code-javascript</a></td>
     </tr>
     <tr>
       <td>3.</td>
       <td>Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.</td>
-      <td><a href="https://github.com/30-seconds/30-seconds-of-code"  target="_blank">https://github.com/30-seconds/30-seconds-of-code</a></td>
+      <td><a href="https://github.com/30-seconds/30-seconds-of-code">https://github.com/30-seconds/30-seconds-of-code</a></td>
     </tr>
     <tr>
       <td>4.</td>
       <td>JavaScript Patterns</td>
-      <td><a href="https://github.com/shichuan/javascript-patterns"  target="_blank">https://github.com/shichuan/javascript-patterns</a></td>
+      <td><a href="https://github.com/shichuan/javascript-patterns">https://github.com/shichuan/javascript-patterns</a></td>
     </tr>
   </tbody>
 </table>
@@ -103,11 +103,40 @@ This repository doesn't contain **all** the best repositories present on Github 
 
 
 <h2 id="algorithms">Data Structures and Algorithms</h2>
-  <ol>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-  </ol>
+<table>
+  <thead>
+    <th>SR NO.</th>
+    <th>DESCRIPTION</th>
+    <th>REFERENCE</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Algorithms and Data Structures implemented in Java</td>
+      <td><a href="https://github.com/TheAlgorithms/Java">https://github.com/TheAlgorithms/Java</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Minimal examples of data structures and algorithms in Python</td>
+      <td><a href="https://github.com/keon/algorithms">https://github.com/keon/algorithms</a></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Algorithms and data structures implemented in JavaScript with explanations and links to further readings</td>
+      <td><a href="https://github.com/trekhleb/javascript-algorithms">https://github.com/trekhleb/javascript-algorithms</a></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>All Algorithms implemented in C</td>
+      <td><a href="https://github.com/TheAlgorithms/C">https://github.com/TheAlgorithms/C</a></td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>Algorithms and Data Structures implemented in Python</td>
+      <td><a href="https://github.com/TheAlgorithms/Python">https://github.com/TheAlgorithms/Python</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="sql">SQL</h2>
   <ol>
