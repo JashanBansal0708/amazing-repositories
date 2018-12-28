@@ -59,22 +59,22 @@ This repository doesn't contain **all** the best repositories present on Github 
     <tr>
       <td>1.</td>
       <td>JavaScript Style Guide</td>
-      <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
+      <td><a href="https://github.com/airbnb/javascript"  target="_blank">https://github.com/airbnb/javascript</a></td>
     </tr>
     <tr>
       <td>2.</td>
       <td>Clean Code concepts adapted for JavaScript</td>
-      <td><a href="https://github.com/ryanmcdermott/clean-code-javascript">https://github.com/ryanmcdermott/clean-code-javascript</td>
+      <td><a href="https://github.com/ryanmcdermott/clean-code-javascript"  target="_blank">https://github.com/ryanmcdermott/clean-code-javascript</a></td>
     </tr>
     <tr>
       <td>3.</td>
       <td>Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.</td>
-      <td><a href="https://github.com/30-seconds/30-seconds-of-code">https://github.com/30-seconds/30-seconds-of-code</td>
+      <td><a href="https://github.com/30-seconds/30-seconds-of-code"  target="_blank">https://github.com/30-seconds/30-seconds-of-code</a></td>
     </tr>
     <tr>
       <td>4.</td>
       <td>JavaScript Patterns</td>
-      <td><a href="https://github.com/shichuan/javascript-patterns">https://github.com/shichuan/javascript-patterns</td>
+      <td><a href="https://github.com/shichuan/javascript-patterns"  target="_blank">https://github.com/shichuan/javascript-patterns</a></td>
     </tr>
   </tbody>
 </table>
