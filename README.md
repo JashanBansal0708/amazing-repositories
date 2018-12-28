@@ -139,11 +139,20 @@ This repository doesn't contain **all** the best repositories present on Github 
 </table>
 
 <h2 id="sql">SQL</h2>
-  <ol>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-  </ol>
+<table>
+  <thead>
+    <th>SR NO.</th>
+    <th>DESCRIPTION</th>
+    <th>REFERENCE</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Most recommended guide to learn SQL</td>
+      <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/SQL.md">https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/SQL.md</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="mongodb">MongoDB</h2>
   <ol>
@@ -153,11 +162,31 @@ This repository doesn't contain **all** the best repositories present on Github 
   </ol>
 
 <h2 id="github">Git/Github</h2>
-  <ol>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-  </ol>
+<table>
+  <thead>
+    <th>SR NO.</th>
+    <th>DESCRIPTION</th>
+    <th>REFERENCE</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Most recommended guide to learn Git basics</td>
+      <td><a href="https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Git.md">https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Git.md</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Git and git flow cheat sheet</td>
+      <td><a href="https://github.com/arslanbilal/git-cheat-sheet">https://github.com/arslanbilal/git-cheat-sheet</a></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>A list of cool features of Git and GitHub.</td>
+      <td><a href="https://github.com/tiimgreen/github-cheat-sheet">https://github.com/tiimgreen/github-cheat-sheet</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
