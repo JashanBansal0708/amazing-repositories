@@ -58,18 +58,23 @@ This repository doesn't contain **all** the best repositories present on Github 
   <tbody>
     <tr>
       <td>1.</td>
-      <td>Javascript style guide</td>
+      <td>JavaScript Style Guide</td>
       <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
     </tr>
     <tr>
       <td>2.</td>
-      <td>Javascript cheat sheet helps to reduce the amount of code that you wants to spend on your code</td>
-      <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td>
+      <td>Clean Code concepts adapted for JavaScript</td>
+      <td><a href="https://github.com/ryanmcdermott/clean-code-javascript">https://github.com/ryanmcdermott/clean-code-javascript</td>
     </tr>
     <tr>
       <td>3.</td>
-      <td>Javascript style guide that helps to increase your skills in coding</td>
-      <td><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</td></td>
+      <td>Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.</td>
+      <td><a href="https://github.com/30-seconds/30-seconds-of-code">https://github.com/30-seconds/30-seconds-of-code</td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>JavaScript Patterns</td>
+      <td><a href="https://github.com/shichuan/javascript-patterns">https://github.com/shichuan/javascript-patterns</td>
     </tr>
   </tbody>
 </table>
