@@ -196,15 +196,7 @@
   </tbody>
 </table>
 
-<h2 id="python">Python</h2>
-  <ol>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-  </ol>
-
 <h2 id="java">Java</h2>
-<h2 id="general">General</h2>
 <table>
   <thead>
     <th>SR NO.</th>
@@ -229,14 +221,6 @@
     </tr>
   </tbody>
 </table>
-
-
-<h2 id="c/c++">C/C++</h2>
-  <ol>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-  </ol>
 
 
 <h2 id="algorithms">Data Structures and Algorithms</h2>
