@@ -41,13 +41,12 @@
   <li><a href="#general">General</a></li>
   <li><a href="#resume" >Github Resume</a></li>
   <li><a href="#projects">Projects related Repositories</a></li>
-  <li><a href="#javascript">JavaScript</li>
-  <li><a href="#python">Python</li>
-  <li><a href="#java">Java</li>
-  <li><a href="#C/C++">C/C++</li>
-  <li><a href="#algorithms">Algorithms and Data Structures</li>
-  <li><a href="#SQL">SQL</li>
-  <li><a href="#github">Git/Github</li>
+  <li><a href="machine-learning">Python and Machine Learning</a></li>
+  <li><a href="#javascript">JavaScript</a></li>
+  <li><a href="#java">Java</a></li>
+  <li><a href="#algorithms">Algorithms and Data Structures</a></li>
+  <li><a href="#SQL">SQL</a></li>
+  <li><a href="#github">Git/Github</a></li>
 </ul>
 
 
@@ -130,6 +129,41 @@
   </tbody>
 </table>
 
+<h2 id="machine-learning">Python and Machine Learning</h2>
+<table>
+  <thead>
+    <th>SR NO.</th>
+    <th>DESCRIPTION</th>
+    <th>REFERENCE</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>:books: A practical approach to learning machine learning.</td>
+      <td><a href="https://github.com/GokuMohandas/practicalAI">https://github.com/GokuMohandas/practicalAI</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>Machine learning and deep learning tutorials, articles and other resources </td>
+      <td><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">https://github.com/ujjwalkarn/Machine-Learning-Tutorials</a></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Open Machine Learning Course!</td>
+      <td><a href="https://github.com/Yorko/mlcourse.ai">https://github.com/Yorko/mlcourse.ai</a></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td>A complete daily plan for studying to become a machine learning engineer!</td>
+      <td><a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers">https://github.com/ZuzooVn/machine-learning-for-software-engineers</a></td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td>:books: VIP cheatsheets for Stanford's CS 229 Machine Learning.</td>
+      <td><a href="https://github.com/afshinea/stanford-cs-229-machine-learning">https://github.com/afshinea/stanford-cs-229-machine-learning</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="javascript">Javascript</h2>
 <table>
