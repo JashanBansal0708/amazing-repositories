@@ -47,7 +47,6 @@
   <li><a href="#C/C++">C/C++</li>
   <li><a href="#algorithms">Algorithms and Data Structures</li>
   <li><a href="#SQL">SQL</li>
-  <li><a href="#MongoDB">MongoDB</li>
   <li><a href="#github">Git/Github</li>
 </ul>
 
@@ -94,7 +93,7 @@
   <tbody>
     <tr>
       <td>1.</td>
-      <td>Create the Resume of your Github profile by just star this repository :open_mouth:</td>
+      <td>Automatically create the Resume of your Github profile by just star this repository :open_mouth:</td>
       <td><a href="https://github.com/resume/resume.github.com">https://github.com/resume/resume.github.com</a></td>
     </tr>
   </tbody>
@@ -171,11 +170,31 @@
   </ol>
 
 <h2 id="java">Java</h2>
-  <ol>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-  </ol>
+<h2 id="general">General</h2>
+<table>
+  <thead>
+    <th>SR NO.</th>
+    <th>DESCRIPTION</th>
+    <th>REFERENCE</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Java Tutorial For Beginners - Companion Reference(Short and complete)</td>
+      <td><a href="https://github.com/in28minutes/java-cheat-sheet">https://github.com/in28minutes/java-cheat-sheet</a></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td>A Java 8+ Cheat Sheet for functional programming!</td>
+      <td><a href="https://github.com/BafS/Java8-CheatSheet">https://github.com/BafS/Java8-CheatSheet</a></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td>Modern Java - A Guide to Java 8.</td>
+      <td><a href="https://github.com/winterbe/java8-tutorial">https://github.com/winterbe/java8-tutorial</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <h2 id="c/c++">C/C++</h2>
@@ -237,13 +256,6 @@
     </tr>
   </tbody>
 </table>
-
-<h2 id="mongodb">MongoDB</h2>
-  <ol>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-    <li><a href="https://github.com/airbnb/javascript">https://github.com/airbnb/javascript</li>
-  </ol>
 
 <h2 id="github">Git/Github</h2>
 <table>
