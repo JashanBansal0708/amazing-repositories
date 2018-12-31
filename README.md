@@ -41,10 +41,10 @@
   <li><a href="#general">General</a></li>
   <li><a href="#github-resume" >Github Resume</a></li>
   <li><a href="#projects-related-tutorials">Projects related Repositories</a></li>
-  <li><a href="python-and-machine-learning">Python and Machine Learning</a></li>
+  <li><a href="#python-and-machine-learning">Python and Machine Learning</a></li>
   <li><a href="#javascript">JavaScript</a></li>
   <li><a href="#java">Java</a></li>
-  <li><a href="#algorithms-and-data-structures">Algorithms and Data Structures</a></li>
+  <li><a href="#data-structures-and-algorithms">Data Structures and Algorithms</a></li>
   <li><a href="#sql">SQL</a></li>
   <li><a href="#git-github">Git/Github</a></li>
 </ul>
@@ -98,7 +98,7 @@
   </tbody>
 </table>
 
-<h2 id="projects-related-repositories">Projects related Repositories</h2>
+<h2 id="projects-related-tutorials">Projects related Repositories</h2>
 <table>
   <thead>
     <th>SR NO.</th>
