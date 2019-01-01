@@ -1,7 +1,7 @@
-![Awesome Repositories](awesome-repositories.jpg)
-<h1 align='center'>Awesome Repositories</h1>
+![Amazing Repositories](amazing.jpg)
+<h1 align='center'>Amazing Repositories</h1>
 
-<p align='center'>An awesome and curated list of best repositories related to various topics. Leave a star :star: to support this project</p>
+<p align='center'>An amazing list of cool repositories related to various topics. Leave a star :star: to support this project</p>
 
 <p align="center">
   <a href="https://github.com/jashanbansal0708/awesome-repositories/issues">
@@ -26,7 +26,7 @@
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
-> This repository aims to take all the awesome repositories present on github at one place, so that anyone can find them  easily and start learning as early as possible.
+> This repository aims to take all the amazing repositories present on github at one place, so that anyone can find them  easily and start learning as early as possible.
 
 ## :restroom: &nbsp;For whom?
 
