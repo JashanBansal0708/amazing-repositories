@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://github.com/jashanbansal0708/awesome-repositories/issues">
-    <img src="https://img.shields.io/github/issues/jashanbansal0708/web-development.svg">
+    <img src="https://img.shields.io/github/issues/jashanbansal0708/awesome-repositories.svg">
   </a>
-  <a href="https://github.com/jashanbansal0708/web-development/network">
-    <img src="https://img.shields.io/github/forks/jashanbansal0708/web-development.svg">
+  <a href="https://github.com/jashanbansal0708/awesome-repositories/network">
+    <img src="https://img.shields.io/github/forks/jashanbansal0708/awesome-repositories.svg">
   </a>
-  <a href="https://github.com/jashanbansal0708/web-development/stargazers">
-    <img src="https://img.shields.io/github/stars/jashanbansal0708/web-development.svg">
+  <a href="https://github.com/jashanbansal0708/awesome-repositories/stargazers">
+    <img src="https://img.shields.io/github/stars/jashanbansal0708/awesome-repositories.svg">
   </a>
 </p>
 
