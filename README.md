@@ -4,14 +4,14 @@
 <p align='center'>An amazing list of cool repositories related to various topics. Leave a star :star: to support this project</p>
 
 <p align="center">
-  <a href="https://github.com/jashanbansal0708/awesome-repositories/issues">
-    <img src="https://img.shields.io/github/issues/jashanbansal0708/awesome-repositories.svg">
+  <a href="https://github.com/jashanbansal0708/amazing-repositories/issues">
+    <img src="https://img.shields.io/github/issues/jashanbansal0708/amazing-repositories.svg">
   </a>
-  <a href="https://github.com/jashanbansal0708/awesome-repositories/network">
-    <img src="https://img.shields.io/github/forks/jashanbansal0708/awesome-repositories.svg">
+  <a href="https://github.com/jashanbansal0708/amazing-repositories/network">
+    <img src="https://img.shields.io/github/forks/jashanbansal0708/amazing-repositories.svg">
   </a>
-  <a href="https://github.com/jashanbansal0708/awesome-repositories/stargazers">
-    <img src="https://img.shields.io/github/stars/jashanbansal0708/awesome-repositories.svg">
+  <a href="https://github.com/jashanbansal0708/amazing-repositories/stargazers">
+    <img src="https://img.shields.io/github/stars/jashanbansal0708/amazing-repositories.svg">
   </a>
 </p>
 
