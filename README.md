@@ -36,6 +36,10 @@
 
 > This material is under construction! We have added some of the trending topics. There are so many more topics to add and there are so many cool repositories related to the existing topics are present, for which we are not aware but you are. You will probably find several typos also. So Please consider to add new topics/ new repositories in existing topics/ give your suggestion and raise issues about any bugs. Go to [CONTRIBUTING.md](CONTRIBUTING.md) to see how to contribute!  
 
+## :sparkles: Tip
+
+> Use CTRL + Click to open repository links in new tab.
+
 # Table of Contents
 <ul>
   <li><a href="#general">General</a></li>

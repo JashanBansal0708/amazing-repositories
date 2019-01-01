@@ -17,14 +17,14 @@
     <li> Open the README.md file</li>
     <li> Click on the :pencil2: icon on the top-right of README file. </li>
     <li> Go on to the specific topic where you want to add the Repository</li>
-    <li> Add the new repository as follows: </li>
+    <li> Add the new repository as follows:(Edit the text between ??...??) </li>
 </ol>
 
 ```
 <tr>
-    <td>SR No.</td>
-    <td>Little bit decsription about repository give on the respository page.</td>
-    <td><a href="Link to the repository">Link to the repository</a></td>
+    <td>??  SR No.  ??</td>
+    <td>??  Little bit description about repository give on the respository page.  ??</td>
+    <td><a href="??  Link to the repository  ??">??  Link to the repository  ??</a></td>
 </tr>
 ```
 
@@ -47,11 +47,11 @@ After adding, submit the Pull request by explaining a little bit about repositor
     <li> Open the README.md file</li>
     <li> Click on the :pencil2: icon on the top-right of README file to edit. </li>
     <li> Consider to add the topic at the and of all topics </li>
-    <li> Add the new topic in the syntax as follows: </li>
+    <li> Add the new topic in the syntax as follows:(Edit the text between ??...??) </li>
 </ol>
 
 ```
- <li><a href="#name-of-the-topic">Name of the Topic</a></li>
+ <li><a href="??  #name-of-the-topic  ??">??  Name of the Topic  ??</a></li>
 ```
 Example:
 ```
@@ -60,7 +60,7 @@ Example:
     
 **After adding the new Topic, add the repositories related to that topic at the end of file. As follows..**
 ```
-<h2 id="name-of-the-topic">Name of the topic</h2>
+<h2 id="??  name-of-the-topic  ??">??  Name of the topic  ??</h2>
 <table>
   <thead>
     <th>SR NO.</th>
@@ -69,13 +69,15 @@ Example:
   </thead>
   <tbody>
     <tr>
-      <td>1.</td>
-      <td>Description about the repository</td>
-      <td><a href="Link to the repsoritory">Link to the repsoritory</a></td>
+      <td>??  1.  ??</td>
+      <td>??  Description about the repository  ??</td>
+      <td><a href="??  Link to the repository  ??">??  Link to the repsoritory  ??</a></td>
     </tr>
   </tbody>
 </table>
 ```
 <h3 id="general">General</h3>
 
-> The contributions are not only like add new repositories, add new topics. You will probably find some Typos or many more issues like that. If you do, please let us know, or submit a pull request with your fixes via Github.
+> The contributions are not only like add new repositories add new topics. You will probably find some Typos or many more issues like that. If you do, please let us know via issues, or submit a pull request with your fixes.
+
+> You can also improve the Contributing.md or README.md files. After improvements, just submit the pull request, we will see all these improvements and merge if they are good.
