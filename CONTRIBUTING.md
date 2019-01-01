@@ -15,8 +15,8 @@
 <ol>
     <li> Fork this Repo </li>
     <li> Open the README.md file</li>
-    <li> Click on the :pencil: icon on the top-right of README file. </li>
-    <li> Go on to the specific topic where you wants to add the Repository</li>
+    <li> Click on the :pencil2: icon on the top-right of README file. </li>
+    <li> Go on to the specific topic where you want to add the Repository</li>
     <li> Add the new repository as follows: </li>
 </ol>
 
@@ -45,7 +45,7 @@ After adding, submit the Pull request by explaining a little bit about repositor
 <ol>
     <li> Fork this Repo </li>
     <li> Open the README.md file</li>
-    <li> Click on the :pencil: icon on the top-right of README file to edit. </li>
+    <li> Click on the :pencil2: icon on the top-right of README file to edit. </li>
     <li> Consider to add the topic at the and of all topics </li>
     <li> Add the new topic in the syntax as follows: </li>
 </ol>
