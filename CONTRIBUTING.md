@@ -76,6 +76,25 @@ Example:
   </tbody>
 </table>
 ```
+Example:
+```
+<h2 id="projects-related-tutorials">Projects related Repositories</h2>
+<table>
+  <thead>
+    <th>SR NO.</th>
+    <th>DESCRIPTION</th>
+    <th>REFERENCE</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.</td>
+      <td>Curated list of project-based tutorials</td>
+      <td><a href="https://github.com/tuvtran/project-based-learning">https://github.com/tuvtran/project-based-learning</a></td>
+    </tr>
+  </tbody>
+</table>
+
+```
 <h3 id="general">General</h3>
 
 > The contributions are not only like add new repositories add new topics. You will probably find some Typos or many more issues like that. If you do, please let us know via issues, or submit a pull request with your fixes.
