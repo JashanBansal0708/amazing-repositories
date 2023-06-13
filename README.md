@@ -197,6 +197,11 @@
       <td>JavaScript Patterns</td>
       <td><a href="https://github.com/shichuan/javascript-patterns">https://github.com/shichuan/javascript-patterns</a></td>
     </tr>
+    <tr>
+      <td>5.</td>
+      <td>The Concise TypeScript Book</td>
+      <td><a href="https://github.com/gibbok/typescript-book">https://github.com/gibbok/typescript-book</a></td>
+    </tr>
   </tbody>
 </table>
 
